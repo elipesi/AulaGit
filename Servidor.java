@@ -3,6 +3,7 @@ import java.net.*;
 
 public class Servidor {
 
+    // comentando....
     static ServerSocket serversocket;
     static Socket client_socket;
     static Conexao c;
