@@ -3,6 +3,7 @@ import java.net.*;
 
 public class Cliente {
 
+    // comentando novamente...
     static Conexao c;
     static Socket socket;
 
